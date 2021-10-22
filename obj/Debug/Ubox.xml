@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ubox
+</name>
+</assembly>
+<members>
+<member name="T:Ubox.KelolaBarangDataSet.barang_keluarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet.barang_masukDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet.persediaan_barangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet.barang_keluarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet.barang_masukRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet.persediaan_barangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet.barang_keluarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet.barang_masukRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet.persediaan_barangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSetTableAdapters.barang_keluarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSetTableAdapters.barang_masukTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSetTableAdapters.persediaan_barangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Ubox.KelolaBarangDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ubox.KelolaBarangDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Ubox.KelolaBarangDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ubox.KelolaBarangDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Ubox.KelolaBarangDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ubox.KelolaBarangDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Ubox.KelolaBarangDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Ubox.KelolaBarangDataSetTableAdapters.TableAdapterManager.UpdateAll(Ubox.KelolaBarangDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Ubox.KelolaBarangDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Ubox.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Ubox.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Ubox.My.Resources.Resources.box">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ubox.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Ubox.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

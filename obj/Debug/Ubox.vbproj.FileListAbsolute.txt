@@ -1,0 +1,13 @@
+C:\Users\herda\Documents\Praktikum\Ubox\bin\Debug\Ubox.exe.config
+C:\Users\herda\Documents\Praktikum\Ubox\bin\Debug\Ubox.exe
+C:\Users\herda\Documents\Praktikum\Ubox\bin\Debug\Ubox.pdb
+C:\Users\herda\Documents\Praktikum\Ubox\bin\Debug\Ubox.xml
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.ManGoods.resources
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.Resources.resources
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.vbproj.GenerateResource.Cache
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.exe
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.xml
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.pdb
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.PersediaanForm.resources
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.vbprojResolveAssemblyReference.cache
+C:\Users\herda\Documents\Praktikum\Ubox\obj\Debug\Ubox.ReportForm.resources
