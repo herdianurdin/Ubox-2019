@@ -7,3 +7,11 @@ Perlu diperhatikan untuk membuka aplikasi ini, diharapkan untuk mematikan antivi
 
 ## Screenshot
 ![LoginForm](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Login_Form.png)
+![HomeForm](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Home_Form.png)
+![DataForm](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Data_Form.png)
+![KeluarForm](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Keluar_Form.png)
+![LaporanForm](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Laporan_Form.png)
+![MasukForm](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Masuk_Form.png)
+![PersediaanForm](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Persediaan_Form.png)
+![SheetForm](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Sheet_Form.png)
+![Taken](https://cdn.statically.io/gh/Herdianurdin/Ubox-2019/main/ss/Taken_Form.png)
